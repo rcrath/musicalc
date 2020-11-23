@@ -2,6 +2,8 @@
 
 Musicians Calculator 
 
+Similar to https://github.com/MikeAleksa/MusiciansCalculator but with MS, samples and such and written for desktop.
+
 convert, add, subtract, perccent, multiply, divide times.
 
 
