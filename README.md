@@ -2,7 +2,7 @@
 
 Musicians Calculator 
 
-convert, add, subtract, perccent, multiply?, divide?} times.
+convert, add, subtract, perccent, multiply, divide times.
 
 
 HH:MM:SS:XXX +/- HH:MM:SS:XXX = HH:MM:SS:XXX
