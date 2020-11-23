@@ -14,3 +14,6 @@ convert, add, subtract, perccent, multiply, divide times.
 
 * BPM to ms
 * ms to BPM
+
+* Maybe configure pitch freq to note to midi note
+* delay calc
